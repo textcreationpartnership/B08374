@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a lybel, called, A speech lately made by a noble peer of this realm by a better Protestant than the author of it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08374</idno>
+            <idno type="STC">Wing A3320A</idno>
+            <idno type="STC">ESTC R224387</idno>
+            <idno type="EEBO-CITATION">69648492</idno>
+            <idno type="OCLC">ocm 69648492</idno>
+            <idno type="VID">184830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184830)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2872:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a lybel, called, A speech lately made by a noble peer of this realm by a better Protestant than the author of it.</title>
+                  <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683. Speech lately made by a noble peer of the realm.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II).</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Re-printed in the year 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside cropped at bottom with loss of text.</note>
+                  <note>Defends the Duke of York, later James II.</note>
+                  <note>A reply, possibly by Charles II, to the Earl of Shaftesbury's speech of Dec. 23, 1680, in the House of Lords. Cf. NUC pre-1956, v. 17, p. 577.</note>
+                  <note>Reproduction of original in: Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683. --  Speech lately made by a noble peer of the realm.</term>
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:184830:1" rendition="simple:additions"/>
+            <head>An Anſwer to a Lybel, called, a Speech lately made by a Noble PEER of this REALM;</head>
+            <byline>By a better Proteſtant than the Author of it.</byline>
+            <p>I Have heard much of the ſad ſtate and condition we are in, and I am convinced of it, ſince I ſee ſuch reflexions made with impunity up<g ref="char:EOLhyphen"/>on the Kings Perſon and Government. I ſhall ſay little to the Precedent of our <hi>Hary</hi> the fourth; Unbridled violence, and mean condeſcenſions, are the unhappy neceſſities of an Uſurper; but a good and a lawful King is oblieged to maintain His Own Pre<g ref="char:EOLhyphen"/>rogative, as well as the Rights of His Subjects. But is it poſſible, that the ſuppoſed Author of the Printed Speech, ſhould already forget, how lately the King (after a great Re-trenchment of His Family) did at once, and (as it is ſaid) by his Lord<g ref="char:EOLhyphen"/>ſhips advice, Change almoſt His whole Council? and yet the People (or thoſe that ſtill make uſe of their Names) never were, nor will yet be ſatisfied. I will not put his Lordſhip in mind of the Court-Ladyes, ſince he doth not remember he ſpoke of them: But unleſs he make himſelf a <hi>Samuel,</hi> I do not know what authority he has to examine <hi>Saul,</hi> about the bleat<g ref="char:EOLhyphen"/>ing of the Cattel? I cannot believe his Lordſhip could have the heart, to ſacrifice the faireſt of them; His Lordſhip may read in the ſame place, <hi>That Obedience is better than Sacrifice;</hi> but if a Sacrifice muſt be made, <hi>It is not to the People, but to God and Justice.</hi> I would fain underſtand what is meant by the People? For now every man calls himſelf the People; and when one man calls for one Thing, and another for Something, directly oppoſite, both cry out, that if this, or that be not done, the People is betrayed; that is to ſay, they will endeavour to perſwade them ſo. But the People in this Speech, hath a ſtrange Dialect, ſuch as I hope, no <hi>Engliſh</hi> Man underſtands; <hi>Must,</hi> was never the Language of a good Subject, nor Sub<g ref="char:EOLhyphen"/>misſion the part of a King; (<hi>We must,</hi> &amp;c. and no new Converts) I am ſorry, that with all our Zeal, we are ſo unkind to <hi>Proſylites,</hi> we had a greater value for them not long ſince; for though <hi>L. B.</hi> was accuſed of the Plot, his Converſion ſecured him without a Pardon, though either his Lordſhip was deeply guilty, or the Kings Evidence groſſely perjured. Till the Author diſcover who he means by <hi>Sempronia,</hi> I ſhall not tell him who I believe to be as bad as <hi>Catiline.</hi> But it is prodigious, that while we are frighted with Bugbeares of inviſible Diſpenſations from the Pope, his Lordſhip with his arbitrary <hi>Muſt,</hi> ſhould diſ<g ref="char:EOLhyphen"/>penſe at once, with the Law of God, as to the Queen; with the Law of Nations, as to forraign Miniſters; with the Laws of Hoſpitality, as to Strangers, and all that part of the Oath of Allegiance, that concerns the Heir of the Crown, which is equal<g ref="char:EOLhyphen"/>ly binding with the reſt, to all whoſe ſuſpected honeſty cannot accept of ſuch an Arbitrary Diſpenſation. His Lordſhip ſeems much concerned to hear of a Bargain between the King and the Houſe of Commons; and ſo am I, for things are too ripe for miſchief, when Subjects are permitted to capitulate with their Soveraign. The Kings Subjects (by His permisſion) have made Capitulations with forraign Princes; but his Lordſhip would not have the King ſo far truſted, as that His own Subjects may Capi<g ref="char:EOLhyphen"/>tulate with him, becauſe as his Lordſhip ſays, he has ſo often deceived (that hard Word) <hi>the People.</hi> And I beg leave to uſe the ſame expresſion of His <hi>Majeſties</hi> patience, which his Lordſhip uſes of his little care of his Perſon, That no Story affords a parallel of him. The actings of the Duke are indeed admirable to all, but incomprehenſible to ſuch as have not the true Principles of Loy<g ref="char:EOLhyphen"/>alty rooted in them. But his Lordſhip (who in <hi>Cromwel's</hi> time was much better acquainted with what paſt at <hi>London,</hi> then at <hi>Bruxells</hi>) avers, That the Duke had an early aim at the Crown, before the Kings Reſtauration; this is a high Charge, and ought to be better proved than by a bare aſſertion: Hath his Lordſhip any Letters to produce from His <hi>Royal Highneſs</hi> to Himſelf, or any other chief <hi>Miniſter of the <g ref="char:V">Ʋ</g>ſurpers?</hi> Or to what Crown could the Duke pretend, when they had robbed the King of His own? The Duke can ſhow undenyable proofs of his Allegeance, even in thoſe days; For what could an exiled Prince do more, than leave the great Commands, and Penſions that he had abroad, and all the advantages that his Birth, his Courage and his Reputation promiſed him, to follow the Fortune, and the Wants of His <hi>Majeſty?</hi> But how will his Lordſhip make out, that after the Match with a <hi>Portugal</hi> Lady (for that is the only Title his Lordſhip allows the Queen) The Duke and his Party made Proclamation to the World, that We were like to have no Children, and he muſt be the Certain Heir; Where is the World? and where is the Proclamati<g ref="char:EOLhyphen"/>on? He ſayes the Duke took his Seat in Parliament, as Prince of <hi>Wales;</hi> but his Lordſhip knows, that the Seat on the Right Hand of the State, was, and is reſerved for the Prince of <hi>Wales,</hi> The Duke took that on the Left Hand; the Printed Pictures of the Houſe of Peers, ſitting upon the Tryal of the Earl of <hi>Strafford,</hi> ſhow, that this is no Innovation; And His <hi>Royal Highneſs</hi> had the ſame Seat, when the King, His Father Called the Parliament at <hi>Oxford.</hi> He urges, That the Duke had his Guards about him, up<g ref="char:EOLhyphen"/>on the ſame Floor with the King, and ſo the King was every Night in his Power; It was a timerous ambition that loſt ſo many opportunities. But what an Impudence is this? The Duke never had Guards; they are the Kings, the King pays them, they wait in their turn upon the King, and have but the Name of the Duke, as the Foot-Regiments have of Collonel <hi>Ruſſel,</hi> and my Lord <hi>Craven;</hi> So the Duke was every Night in the Kings Power. Next he fires his greateſt Guns, <hi>The Duke is plain<g ref="char:EOLhyphen"/>ly the Head of the Plot;</hi> By whoſe evidence? Long before the Duke was Named<g ref="char:punc">▪</g> Mr. <hi>Oats</hi> declared to the Lords, that he had no more to accuſe; If he accuſe him now, and <hi>Oats</hi> be divided againſt <hi>Oats,</hi> how can his Teſtimony ſtand good? <hi>Bed<g ref="char:EOLhyphen"/>low</hi> ſaid as much; and here appears no Evidence, where the greateſt would be little enough. I ſay nothing of a <hi>Presbyterian Plot;</hi> but (with his Lordſhips leave) what has been, may be. The Calling, the Proroguing, and the Diſſolving of Parliaments, are ſo abſolutely in the King, that they ought to be Riddles to a Subject. When the Duke was Commanded to leave the King<g ref="char:EOLhyphen"/>dom, I appeal to all the World, how readily, how Submisſively, he obeyed; and comparing his immediate Obedience, with the obſtinate Refuſal of others, who ſtill ſtay in oppoſition to the Kings Commands, let any Impartial man of Senſe decide, which has ſhewed moſt Loyalty and Duty. His Lordſhip and his Party (for he ſays, <hi>We</hi>) expect every hour, that the Court ſhould joyn with the Duke, againſt them; but I find, <hi>the Court</hi> is as hard a Word, as <hi>the People,</hi> and as boldly, and as odly uſed; If by that Word, he means the King, all his Lordſhips Rhetorick will ſcarce perſwade us, that the King ſhould Conſpire with the Duke, againſt His own Crown, and His own Life; If not, what can the Court do without the King, and againſt the Nati<g ref="char:EOLhyphen"/>on? Beſides, his Lordſhip has too many Friends among the Courtiers, to ſuſpect them; and the Duke has met with too much Ingratitude, to truſt them. His Lordſhip avers as truely, that the King has declared the Duke to be dangerous; as, That His <hi>Roy<g ref="char:EOLhyphen"/>al Highneſs</hi> is now raiſing men in <hi>Scotland,</hi> that whole Council, that whole Kingdom, will diſprove Him; And by the apparent falſhood of this Aſſertion, let all men judge of the Truth of the reſt. If the Arms, the Gariſons, <hi>&amp;c.</hi> be in ſuch hands as the King thinks ſafe, We are ſafe too; But if not, it concerns His <hi>Majeſty</hi> to ſecure them, ſince his Lordſhip declares, the King is to be truſted with nothing, till he has Reſigned Himſelf to his Lordſhip, and his Party, and is wholly theirs; and yet then too, He muſt truſt their good Nature, and Surrender upon Diſcretion; They will allow Him no other Terms, no, not to be Himſelf, and have His Senſes, unleſs they can fright Him out of them. <hi>I will yet charitably hope, that the pretended Author is abuſed; It concerns him to vindicate himſelf, by wiſhing, as I do, That the true Author may have the ſame Fate, that his Speech had, by order of the Houſe of</hi>
+            </p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
